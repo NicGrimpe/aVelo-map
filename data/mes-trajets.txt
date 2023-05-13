@@ -1,0 +1,451 @@
+
+25-05-2022 00:04:35
+9 minutes
+25-05-2022 00:14:16
+place
+directions_bike
+place
+Parc Lockwell
+Eymard / Sainte-Foy
+Trip ID: 53004
+25-05-2022 01:55:18
+10 minutes
+25-05-2022 02:06:09
+place
+directions_bike
+place
+Cégep Garneau
+Parc Lockwell
+Trip ID: 53071
+25-05-2022 23:04:51
+10 minutes
+25-05-2022 23:15:14
+place
+directions_bike
+place
+Fraser / Cartier
+Eymard / Sainte-Foy
+Trip ID: 53951
+26-05-2022 02:31:46
+25 minutes
+26-05-2022 02:57:30
+place
+directions_bike
+place
+Eymard / Sainte-Foy
+Parc Lockwell
+Trip ID: 54151
+06-06-2022 12:36:30
+15 minutes
+06-06-2022 12:51:59
+place
+directions_bike
+place
+Parc Lockwell
+Place des Canotiers
+Trip ID: 63117
+09-06-2022 22:27:51
+4 minutes
+09-06-2022 22:32:21
+place
+directions_bike
+place
+Parc Lockwell
+Place D’Youville
+Trip ID: 66097
+10-06-2022 02:29:55
+22 minutes
+10-06-2022 02:52:24
+place
+directions_bike
+place
+Parc Montmorency
+Parc Lockwell
+Trip ID: 66196
+12-06-2022 01:52:51
+18 minutes
+12-06-2022 02:11:03
+place
+directions_bike
+place
+Parc Lockwell
+Eymard / Sainte-Foy
+Trip ID: 68436
+12-06-2022 02:17:26
+21 minutes
+12-06-2022 02:39:15
+place
+directions_bike
+place
+Eymard / Sainte-Foy
+Musée national des beaux-arts
+Trip ID: 68471
+12-06-2022 02:40:36
+21 minutes
+12-06-2022 03:01:36
+place
+directions_bike
+place
+Musée national des beaux-arts
+Place des Canotiers
+Trip ID: 68502
+12-06-2022 03:44:48
+27 minutes
+12-06-2022 04:12:20
+place
+directions_bike
+place
+Traverse
+Eymard / Sainte-Foy
+Trip ID: 68562
+12-06-2022 04:14:54
+8 minutes
+12-06-2022 04:23:04
+place
+directions_bike
+place
+Eymard / Sainte-Foy
+Parc Lockwell
+Trip ID: 68578
+13-06-2022 00:08:29
+1 minute
+13-06-2022 00:09:52
+place
+directions_bike
+place
+Fraser / Cartier
+Parc Lockwell
+Trip ID: 69603
+20-07-2022 00:07:27
+10 minutes
+20-07-2022 00:18:25
+place
+directions_bike
+place
+Parc Lockwell
+Cégep Garneau
+Trip ID: 127636
+20-07-2022 03:03:58
+10 minutes
+20-07-2022 03:14:03
+place
+directions_bike
+place
+Cégep Garneau
+Parc Lockwell
+Trip ID: 127869
+21-07-2022 03:22:24
+16 minutes
+21-07-2022 03:38:25
+place
+directions_bike
+place
+Musée national des beaux-arts
+Parc Lockwell
+Trip ID: 129728
+21-07-2022 12:30:00
+13 minutes
+21-07-2022 12:43:20
+place
+directions_bike
+place
+Parc Lockwell
+Place des Canotiers
+Trip ID: 129964
+27-07-2022 00:12:47
+12 minutes
+27-07-2022 00:25:00
+place
+directions_bike
+place
+Parc Lockwell
+Cégep Garneau
+Trip ID: 138385
+27-07-2022 03:08:28
+9 minutes
+27-07-2022 03:17:43
+place
+directions_bike
+place
+Cégep Garneau
+Parc Lockwell
+Trip ID: 138575
+03-08-2022 00:13:10
+11 minutes
+03-08-2022 00:24:44
+place
+directions_bike
+place
+Parc Lockwell
+Cégep Garneau
+Trip ID: 150854
+03-08-2022 02:41:05
+6 minutes
+03-08-2022 02:48:01
+place
+directions_bike
+place
+Eymard / Sainte-Foy
+Parc Lockwell
+Trip ID: 151020
+11-08-2022 22:15:06
+10 minutes
+11-08-2022 22:25:13
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Jean-Baptiste
+Trip ID: 165277
+13-08-2022 03:23:07
+15 minutes
+13-08-2022 03:38:38
+place
+directions_bike
+place
+Parc Lockwell
+Parc Montmorency
+Trip ID: 167722
+14-08-2022 14:55:26
+4 minutes
+14-08-2022 14:59:54
+place
+directions_bike
+place
+Parc Lockwell
+Place Jacques-Cartier
+Trip ID: 169994
+14-08-2022 16:22:52
+8 minutes
+14-08-2022 16:31:24
+place
+directions_bike
+place
+Place Jacques-Cartier
+Parc Lockwell
+Trip ID: 170141
+14-08-2022 20:48:42
+10 minutes
+14-08-2022 20:58:55
+place
+directions_bike
+place
+Parc Lockwell
+3e Avenue / 7e Rue
+Trip ID: 170777
+15-08-2022 02:54:00
+11 minutes
+15-08-2022 03:05:29
+place
+directions_bike
+place
+3e Avenue / 7e Rue
+Parc Lockwell
+Trip ID: 171263
+18-08-2022 21:31:15
+9 minutes
+18-08-2022 21:40:27
+place
+directions_bike
+place
+Parc Lockwell
+Gare du Palais
+Trip ID: 177251
+19-08-2022 01:04:25
+9 minutes
+19-08-2022 01:14:17
+place
+directions_bike
+place
+Bassin Louise
+Parc Lockwell
+Trip ID: 177444
+24-08-2022 23:05:19
+6 minutes
+24-08-2022 23:12:15
+place
+directions_bike
+place
+Parc Lockwell
+Patro Laval
+Trip ID: 187367
+25-08-2022 03:10:10
+13 minutes
+25-08-2022 03:23:55
+place
+directions_bike
+place
+Parc Victoria
+Parc Lockwell
+Trip ID: 187642
+25-08-2022 15:47:23
+1 minute
+25-08-2022 15:48:55
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Jean-Baptiste
+Trip ID: 188205
+31-08-2022 21:34:01
+13 minutes
+31-08-2022 21:47:40
+place
+directions_bike
+place
+Fraser / Cartier
+Parc John-Munn
+Trip ID: 198541
+05-09-2022 00:13:15
+12 minutes
+05-09-2022 00:25:24
+place
+directions_bike
+place
+Parc Lockwell
+Parc John-Munn
+Trip ID: 206218
+07-09-2022 17:41:00
+2 minutes
+07-09-2022 17:43:16
+place
+directions_bike
+place
+Parc Lockwell
+Fraser / Cartier
+Trip ID: 210461
+10-09-2022 13:49:37
+2 minutes
+10-09-2022 13:51:48
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Jean-Baptiste
+Trip ID: 215720
+10-09-2022 13:52:26
+7 minutes
+10-09-2022 13:59:39
+place
+directions_bike
+place
+Église Saint-Jean-Baptiste
+Parc John-Munn
+Trip ID: 215725
+11-09-2022 03:43:22
+6 minutes
+11-09-2022 03:49:50
+place
+directions_bike
+place
+Place Jacques-Cartier
+Parc Lockwell
+Trip ID: 217163
+05-05-2023 03:44:18
+6 minutes
+05-05-2023 03:50:49
+place
+directions_bike
+place
+Signaï / Christophe-Colomb
+Parc Lockwell
+Trip ID: 285055
+05-05-2023 21:39:06
+8 minutes
+05-05-2023 21:47:15
+place
+directions_bike
+place
+Parc Lockwell
+Musée national des beaux-arts
+Trip ID: 287069
+06-05-2023 15:40:50
+4 minutes
+06-05-2023 15:45:19
+place
+directions_bike
+place
+Parc Lockwell
+Père-Marquette / Belvédère
+Trip ID: 289031
+08-05-2023 21:16:42
+4 minutes
+08-05-2023 21:21:38
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Sauveur
+Trip ID: 297166
+09-05-2023 02:21:43
+11 minutes
+09-05-2023 02:33:33
+place
+directions_bike
+place
+Église Saint-Sauveur
+Parc Lockwell
+Trip ID: 297997
+10-05-2023 02:45:19
+4 minutes
+10-05-2023 02:49:28
+place
+directions_bike
+place
+Parc Lockwell
+Père-Marquette / Belvédère
+Trip ID: 301454
+10-05-2023 12:52:51
+5 minutes
+10-05-2023 12:57:58
+place
+directions_bike
+place
+Père-Marquette / Belvédère
+Parc Lockwell
+Trip ID: 302127
+10-05-2023 15:59:39
+2 minutes
+10-05-2023 16:02:27
+place
+directions_bike
+place
+Parc Lockwell
+Parc Saint-Matthew
+Trip ID: 302624
+10-05-2023 17:09:35
+2 minutes
+10-05-2023 17:11:38
+place
+directions_bike
+place
+Grand Théâtre de Québec
+Parc Lockwell
+Trip ID: 302835
+12-05-2023 11:49:16
+18 minutes
+12-05-2023 12:07:52
+place
+directions_bike
+place
+Père-Marquette / Des Érables
+ULaval - Alphonse-Desjardins
+Trip ID: 309839
+12-05-2023 20:39:16
+11 minutes
+12-05-2023 20:50:53
+place
+directions_bike
+place
+ULaval - Alphonse-Desjardins
+Père-Marquette / Belvédère
+Trip ID: 311541
+12-05-2023 21:12:25
+6 minutes
+12-05-2023 21:18:47
+place
+directions_bike
+place
+Père-Marquette / Belvédère
+Parc Lockwell
+Trip ID: 311743
