@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.22566465127407,
+                    46.84326136838717
+                ]
+            },
+            "properties": {
+                "ID": 1,
+                "NOM": "Parc Bardy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.23176441091502,
+                    46.840745132833554
+                ]
+            },
+            "properties": {
+                "ID": 2,
+                "NOM": "Perrault / 24e Rue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.22453234031398,
+                    46.83819700413864
+                ]
+            },
+            "properties": {
+                "ID": 3,
+                "NOM": "Hôpital de l'Enfant-Jésus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.21607739336811,
+                    46.83654879442539
+                ]
+            },
+            "properties": {
+                "ID": 4,
+                "NOM": "Domaine de Maizerets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.22136641573773,
+                    46.83395909405317
+                ]
+            },
+            "properties": {
+                "ID": 5,
+                "NOM": "De la Trinité / De Villebon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.24202612261794,
+                    46.8336456807676
+                ]
+            },
+            "properties": {
+                "ID": 6,
+                "NOM": "Patro Roc-Amadour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.24430827201559,
+                    46.829730733083494
+                ]
+            },
+            "properties": {
+                "ID": 7,
+                "NOM": "ExpoCité - Grand Marché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.24590918274419,
+                    46.826491364400404
+                ]
+            },
+            "properties": {
+                "ID": 8,
+                "NOM": "ExpoCité - Place Jean-Béliveau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.23851774386824,
+                    46.83042985177469
+                ]
+            },
+            "properties": {
+                "ID": 9,
+                "NOM": "Bourdon / 1re Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.23453249801196,
+                    46.82698077792867
+                ]
+            },
+            "properties": {
+                "ID": 10,
+                "NOM": "13e Rue / 1ère Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.22962758003497,
+                    46.829148127200334
+                ]
+            },
+            "properties": {
+                "ID": 11,
+                "NOM": "Cégep Limoilou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.23052920570748,
+                    46.82709052481873
+                ]
+            },
+            "properties": {
+                "ID": 12,
+                "NOM": "11e Rue / 3e Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.23484859189257,
+                    46.824975086052746
+                ]
+            },
+            "properties": {
+                "ID": 13,
+                "NOM": "Parc de l'Anse-à-Cartier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.22807397569115,
+                    46.82464843000377
+                ]
+            },
+            "properties": {
+                "ID": 14,
+                "NOM": "3e Avenue / 7e Rue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.22450479869913,
+                    46.82606392521389
+                ]
+            },
+            "properties": {
+                "ID": 15,
+                "NOM": "7e Rue / 6e Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.22550507755166,
+                    46.82211288930576
+                ]
+            },
+            "properties": {
+                "ID": 16,
+                "NOM": "3e Rue / 3e Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.23395180555573,
+                    46.821198436963144
+                ]
+            },
+            "properties": {
+                "ID": 17,
+                "NOM": "Parc de la Pointe-aux-Lièvres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.24081047906512,
+                    46.81721178077175
+                ]
+            },
+            "properties": {
+                "ID": 18,
+                "NOM": "Bourdages / Monseigneur-Plessis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.23560351058838,
+                    46.81502479116996
+                ]
+            },
+            "properties": {
+                "ID": 19,
+                "NOM": "Parc Victoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.24209731711846,
+                    46.8123126122454
+                ]
+            },
+            "properties": {
+                "ID": 20,
+                "NOM": "Patro Laval"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.21931205726817,
+                    46.818057186145055
+                ]
+            },
+            "properties": {
+                "ID": 21,
+                "NOM": "Parc John-Munn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.21310755571258,
+                    46.81743292253255
+                ]
+            },
+            "properties": {
+                "ID": 22,
+                "NOM": "Gare du Palais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.20836287827245,
+                    46.817544342797945
+                ]
+            },
+            "properties": {
+                "ID": 23,
+                "NOM": "Bassin Louise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.20163398139603,
+                    46.81534377465521
+                ]
+            },
+            "properties": {
+                "ID": 24,
+                "NOM": "Place des Canotiers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.20209922926348,
+                    46.81208086747661
+                ]
+            },
+            "properties": {
+                "ID": 25,
+                "NOM": "Traverse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.20441783854707,
+                    46.8140596993049
+                ]
+            },
+            "properties": {
+                "ID": 26,
+                "NOM": "Parc Montmorency"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.20492464535407,
+                    46.81107606595701
+                ]
+            },
+            "properties": {
+                "ID": 27,
+                "NOM": "Château Frontenac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.20878237676769,
+                    46.81328196994431
+                ]
+            },
+            "properties": {
+                "ID": 28,
+                "NOM": "Hôtel de Ville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.21167820560818,
+                    46.811340806458155
+                ]
+            },
+            "properties": {
+                "ID": 29,
+                "NOM": "Parc de l'Esplanade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.21484076250026,
+                    46.80724758200361
+                ]
+            },
+            "properties": {
+                "ID": 30,
+                "NOM": "Parc de la Francophonie"
+            }
+        }
+    ]
+}
