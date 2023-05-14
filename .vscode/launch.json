@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: avelo_map",
+            "type": "python",
+            "request": "launch",
+            "module": "avelo_map",
+            "justMyCode": false
+        }
+    ]
+}

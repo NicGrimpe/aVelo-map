@@ -3,6 +3,8 @@ from setuptools import setup, find_packages
 from avelo_map.version import __version__
 
 requirements = [
+    "geopandas",
+    "matplotlib"
 ]
 
 setup(
