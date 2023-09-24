@@ -1,5 +1,4 @@
 import geopandas
-import geodatasets
 import contextily as cx
 
 def generate():

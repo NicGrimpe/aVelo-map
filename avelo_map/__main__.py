@@ -7,6 +7,5 @@ if __name__ == "__main__":
     # for t in trajets:
     #     unTrajet = trajet.trajet_from_regex_extraction(t)
     #     print(unTrajet)
-
     map.generate()
     plt.show()

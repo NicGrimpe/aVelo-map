@@ -4,7 +4,8 @@ from avelo_map.version import __version__
 
 requirements = [
     "geopandas",
-    "matplotlib"
+    "matplotlib",
+    "contextily"
 ]
 
 setup(
