@@ -12,7 +12,7 @@
             },
             "properties": {
                 "ID": 1,
-                "NOM": "Parc Bardy"
+                "Nom": "Parc Bardy"
             }
         },
         {
@@ -26,7 +26,7 @@
             },
             "properties": {
                 "ID": 2,
-                "NOM": "Perrault / 24e Rue"
+                "Nom": "Perrault / 24e Rue"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "ID": 3,
-                "NOM": "Hôpital de l'Enfant-Jésus"
+                "Nom": "Hôpital de l'Enfant-Jésus"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "ID": 4,
-                "NOM": "Domaine de Maizerets"
+                "Nom": "Domaine de Maizerets"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "ID": 5,
-                "NOM": "De la Trinité / De Villebon"
+                "Nom": "De la Trinité / De Villebon"
             }
         },
         {
@@ -82,7 +82,7 @@
             },
             "properties": {
                 "ID": 6,
-                "NOM": "Patro Roc-Amadour"
+                "Nom": "Patro Roc-Amadour"
             }
         },
         {
@@ -96,7 +96,7 @@
             },
             "properties": {
                 "ID": 7,
-                "NOM": "ExpoCité - Grand Marché"
+                "Nom": "ExpoCité - Grand Marché"
             }
         },
         {
@@ -110,7 +110,7 @@
             },
             "properties": {
                 "ID": 8,
-                "NOM": "ExpoCité - Place Jean-Béliveau"
+                "Nom": "ExpoCité - Place Jean-Béliveau"
             }
         },
         {
@@ -124,7 +124,7 @@
             },
             "properties": {
                 "ID": 9,
-                "NOM": "Bourdon / 1re Avenue"
+                "Nom": "Bourdon / 1re Avenue"
             }
         },
         {
@@ -138,7 +138,7 @@
             },
             "properties": {
                 "ID": 10,
-                "NOM": "13e Rue / 1ère Avenue"
+                "Nom": "13e Rue / 1ère Avenue"
             }
         },
         {
@@ -152,7 +152,7 @@
             },
             "properties": {
                 "ID": 11,
-                "NOM": "Cégep Limoilou"
+                "Nom": "Cégep Limoilou"
             }
         },
         {
@@ -166,7 +166,7 @@
             },
             "properties": {
                 "ID": 12,
-                "NOM": "11e Rue / 3e Avenue"
+                "Nom": "11e Rue / 3e Avenue"
             }
         },
         {
@@ -180,7 +180,7 @@
             },
             "properties": {
                 "ID": 13,
-                "NOM": "Parc de l'Anse-à-Cartier"
+                "Nom": "Parc de l'Anse-à-Cartier"
             }
         },
         {
@@ -194,7 +194,7 @@
             },
             "properties": {
                 "ID": 14,
-                "NOM": "3e Avenue / 7e Rue"
+                "Nom": "3e Avenue / 7e Rue"
             }
         },
         {
@@ -208,7 +208,7 @@
             },
             "properties": {
                 "ID": 15,
-                "NOM": "7e Rue / 6e Avenue"
+                "Nom": "7e Rue / 6e Avenue"
             }
         },
         {
@@ -222,7 +222,7 @@
             },
             "properties": {
                 "ID": 16,
-                "NOM": "3e Rue / 3e Avenue"
+                "Nom": "3e Rue / 3e Avenue"
             }
         },
         {
@@ -236,7 +236,7 @@
             },
             "properties": {
                 "ID": 17,
-                "NOM": "Parc de la Pointe-aux-Lièvres"
+                "Nom": "Parc de la Pointe-aux-Lièvres"
             }
         },
         {
@@ -250,7 +250,7 @@
             },
             "properties": {
                 "ID": 18,
-                "NOM": "Bourdages / Monseigneur-Plessis"
+                "Nom": "Bourdages / Monseigneur-Plessis"
             }
         },
         {
@@ -264,7 +264,7 @@
             },
             "properties": {
                 "ID": 19,
-                "NOM": "Parc Victoria"
+                "Nom": "Parc Victoria"
             }
         },
         {
@@ -278,7 +278,7 @@
             },
             "properties": {
                 "ID": 20,
-                "NOM": "Patro Laval"
+                "Nom": "Patro Laval"
             }
         },
         {
@@ -292,7 +292,7 @@
             },
             "properties": {
                 "ID": 21,
-                "NOM": "Parc John-Munn"
+                "Nom": "Parc John-Munn"
             }
         },
         {
@@ -306,7 +306,7 @@
             },
             "properties": {
                 "ID": 22,
-                "NOM": "Gare du Palais"
+                "Nom": "Gare du Palais"
             }
         },
         {
@@ -320,7 +320,7 @@
             },
             "properties": {
                 "ID": 23,
-                "NOM": "Bassin Louise"
+                "Nom": "Bassin Louise"
             }
         },
         {
@@ -334,7 +334,7 @@
             },
             "properties": {
                 "ID": 24,
-                "NOM": "Place des Canotiers"
+                "Nom": "Place des Canotiers"
             }
         },
         {
@@ -348,7 +348,7 @@
             },
             "properties": {
                 "ID": 25,
-                "NOM": "Traverse"
+                "Nom": "Traverse"
             }
         },
         {
@@ -362,7 +362,7 @@
             },
             "properties": {
                 "ID": 26,
-                "NOM": "Parc Montmorency"
+                "Nom": "Parc Montmorency"
             }
         },
         {
@@ -376,7 +376,7 @@
             },
             "properties": {
                 "ID": 27,
-                "NOM": "Château Frontenac"
+                "Nom": "Château Frontenac"
             }
         },
         {
@@ -390,7 +390,7 @@
             },
             "properties": {
                 "ID": 28,
-                "NOM": "Hôtel de Ville"
+                "Nom": "Hôtel de Ville"
             }
         },
         {
@@ -404,7 +404,7 @@
             },
             "properties": {
                 "ID": 29,
-                "NOM": "Parc de l'Esplanade"
+                "Nom": "Parc de l'Esplanade"
             }
         },
         {
@@ -418,7 +418,623 @@
             },
             "properties": {
                 "ID": 30,
-                "NOM": "Parc de la Francophonie"
+                "Nom": "Parc de la Francophonie"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2144228822022,
+		    46.812193410840116
+                ]
+            },
+            "properties": {
+                "ID": 31,
+                "Nom": "Place D'Youville"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.21941611430108,
+		    46.813659335161844
+                ]
+            },
+            "properties": {
+                "ID": 32,
+                "Nom": "YMCA Saint-Roch"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.22034554635853,
+		    46.81241010872584
+		]
+            },
+            "properties": {
+                "ID": 33,
+                "Nom": "Lavigueur / Sainte-Geneviève"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.22482967045856,
+		    46.814316301850624
+		]
+            },
+            "properties": {
+                "ID": 34,
+                "Nom": "Place Jacques-Cartier"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.22552880346538,
+		    46.81244078859585
+		]
+            },
+            "properties": {
+                "ID": 35,
+                "Nom": "La Fabrique"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.22974691693607,
+		    46.81259449859481
+		]
+            },
+            "properties": {
+                "ID": 36,
+                "Nom": "Saint-Joseph / Saint-Anselme"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.21759708779203,
+		    46.81106675651356
+		]
+            },
+            "properties": {
+                "ID": 37,
+                "Nom": "Parc Saint-Matthew"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.22246687358894,
+		    46.808969324144655
+		]
+            },
+            "properties": {
+                "ID": 38,
+                "Nom": "Église Saint-Jean Baptiste"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.23183041898757,
+		    46.80992389293553
+		]
+            },
+            "properties": {
+                "ID": 39,
+                "Nom": "Signaï / Christophe-Colomb"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.23613954795361,
+		    46.811087682822766
+		]
+            },
+            "properties": {
+                "ID": 40,
+                "Nom": "Église Saint-Sauveur"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.23850219022471,
+		    46.80928068495677
+		]
+            },
+            "properties": {
+                "ID": 41,
+                "Nom": "Saint-Germain / Boisseau"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.24419019417343,
+		    46.8075969865733
+		]
+            },
+            "properties": {
+                "ID": 42,
+                "Nom": "Raoul-Jobin / Marie de l'incarnation"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.23604760404177,
+		    46.807058785056704
+		]
+            },
+            "properties": {
+                "ID": 43,
+                "Nom": "Place Roger-Lemelin"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.23868804663114,
+		    46.80416099815948
+		]
+            },
+            "properties": {
+                "ID": 44,
+                "Nom": "Pente douce / Montmagny"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.22092306762434,
+		    46.806316391773606
+		]
+            },
+            "properties": {
+                "ID": 45,
+                "Nom": "Grand Théâtre de Québec"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.22677993208411,
+		    46.80623768344099
+		]
+            },
+            "properties": {
+                "ID": 46,
+                "Nom": "Parc Lockwell"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.23128279259151,
+		    46.80357109860635
+		]
+            },
+            "properties": {
+                "ID": 47,
+                "Nom": "Père-Marquette / Des Érables"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.22567701562755,
+		    46.803885541999605
+		]
+            },
+            "properties": {
+                "ID": 48,
+                "Nom": "Fraser / Cartier"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.22584916906563,
+		    46.80119944741873
+		]
+            },
+            "properties": {
+                "ID": 49,
+                "Nom": "Musée national des beaux-arts"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.23550017911053,
+		    46.801115717203885
+		]
+            },
+            "properties": {
+                "ID": 50,
+                "Nom": "Brown / Père-Marquette"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.23873058777053,
+		    46.80112611526917
+		]
+            },
+            "properties": {
+                "ID": 51,
+                "Nom": "Murray / Chemin Sainte-Foy"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.23305625961238,
+		    46.79655479700589
+		]
+            },
+            "properties": {
+                "ID": 52,
+                "Nom": "Collège Mérici"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.24037836526091,
+		    46.79829678890646
+		]
+            },
+            "properties": {
+                "ID": 53,
+                "Nom": "Père Marquette / Belvèdere"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.2442838496908,
+		    46.79741322063242
+		]
+            },
+            "properties": {
+                "ID": 54,
+                "Nom": "Cardinal-Rouleau / Raymond-Casgrain"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.24347161115539,
+		    46.79519701402587
+		]
+            },
+            "properties": {
+                "ID": 55,
+                "Nom": "Bibliothèque Collège-des-Jésuites"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.25124589860104,
+		    46.79630212469355
+		]
+            },
+            "properties": {
+                "ID": 56,
+                "Nom": "La Cité Verte"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.24853938361136,
+		    46.79374940391124
+		]
+            },
+            "properties": {
+                "ID": 57,
+                "Nom": "De Callières / Ernest-Gagnon"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.24412108446947,
+		    46.789618541502215
+		]
+            },
+            "properties": {
+                "ID": 58,
+                "Nom": "Parc du Bois-de-Coulonge"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.25252234773323,
+		    46.79140250098193
+		]
+            },
+            "properties": {
+                "ID": 59,
+                "Nom": "De Callières / Marguerite-Bourgeoys"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.25818771893707,
+		    46.79326809181874
+		]
+            },
+            "properties": {
+                "ID": 60,
+                "Nom": "Eymard / Sainte-Foy"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.26359588479843,
+		    46.792705718840494
+		]
+            },
+            "properties": {
+                "ID": 61,
+                "Nom": "Cégep Garneau"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.2646399339975,
+		    46.7895722478458
+		]
+            },
+            "properties": {
+                "ID": 62,
+                "Nom": "Hélène-Boullé / Du Bon-Air"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.26634532285274,
+		    46.78718062176087
+		]
+            },
+            "properties": {
+                "ID": 63,
+                "Nom": "Parc Myrand"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.25824270794045,
+		    46.78663774146686
+		]
+            },
+            "properties": {
+                "ID": 64,
+                "Nom": "Parc Anet-Gomin"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.2505993356685,
+		    46.78651619269398
+		]
+            },
+            "properties": {
+                "ID": 65,
+                "Nom": "Parc Saint-Charles Garnier"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.24959137003661,
+		    46.78384352543638
+		]
+            },
+            "properties": {
+                "ID": 66,
+                "Nom": "Sheppard / William"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.25264908814127,
+		    46.78206929269694
+		]
+            },
+            "properties": {
+                "ID": 67,
+                "Nom": "Maguire / Sheppard"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.26347080887024,
+		    46.784005737708995
+		]
+            },
+            "properties": {
+                "ID": 68,
+                "Nom": "Myrand / Géronce-Gariépy"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.2704719935722,
+		    46.779604754470625
+		]
+            },
+            "properties": {
+                "ID": 69,
+                "Nom": "ULaval - Alphonse-Desjardins"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.27717254089472,
+		    46.77885690648594
+		]
+            },
+            "properties": {
+                "ID": 70,
+                "Nom": "ULaval - Ferdinand-Vandry"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.27408487958904,
+		    46.78181073818552 
+		]
+            },
+            "properties": {
+                "ID": 71,
+                "Nom": "ULaval - Charles-De Koninck"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.27578743093534,
+		    46.783703045001054
+		]
+            },
+            "properties": {
+                "ID": 72,
+                "Nom": "ULaval - PEPS"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.28441886984082,
+		    46.7842377228738
+		]
+            },
+            "properties": {
+                "ID": 73,
+                "Nom": "De Prével / Quatre-Bourgeois"
+            }
+        },
+	{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+		    -71.28591323616236,
+		    46.786232303906374
+		]
+            },
+            "properties": {
+                "ID": 74,
+                "Nom": "Cégep de Sainte-Foy"
             }
         }
     ]

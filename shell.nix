@@ -25,6 +25,7 @@ pkgs.mkShell {
       # my python and packages
       pythonWithPkgs
       
+      pkgs.black
       # other packages needed for compiling python libs
       #pkgs.readline
       #pkgs.libffi

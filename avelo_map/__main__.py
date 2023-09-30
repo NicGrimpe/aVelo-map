@@ -9,5 +9,5 @@ if __name__ == "__main__":
     #     unTrajet = trajet.trajet_from_regex_extraction(t)
     #     print(unTrajet)
     map.generate_interractive()
-    
-    #plt.show()
+
+    # plt.show()
