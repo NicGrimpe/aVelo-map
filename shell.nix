@@ -4,7 +4,9 @@ let
   pythonWithPkgs = pkgs.python311.withPackages (pythonPkgs: with pythonPkgs; [
     folium
     geojson
-  ]);
+
+    pytest
+]);
 in 
 
 pkgs.mkShell {

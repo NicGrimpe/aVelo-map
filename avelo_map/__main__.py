@@ -1,15 +1,16 @@
 from avelo_map.extraction import extract
-from avelo_map import trajet, map
+from avelo_map import trajet, map, stations
 import folium
 import geojson
 
 if __name__ == "__main__":
-    
-    f = open('data/stations.geojson')
-    stations = geojson.load(f)
-    
+
+    avelo_stations = stations.Stations()
+
     trajets = extract('data/mes-trajets.txt')
     for t in trajets:
-        unTrajet = trajet.trajet_from_regex_extraction(t)
+        a = trajet.trajet_from_regex_extraction(t)
+        a.add_coordinates(avelo_stations.stations)
+        print(a)
 
     #map.generate_interractive()
