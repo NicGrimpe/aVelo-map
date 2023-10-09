@@ -12,6 +12,7 @@ class Stations():
         for station in raw_stations["features"]:
             station_name = station["properties"]["Nom"]
             station_coordinates = station["geometry"]["coordinates"]
+            station_coordinates.reverse() # So we have lattitude first :)
             stations[station_name] = station_coordinates
         
         return stations

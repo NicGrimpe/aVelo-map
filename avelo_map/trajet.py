@@ -1,4 +1,4 @@
-def trajet_from_regex_extraction(regexed_trajet):
+def trajet_from_regex(regexed_trajet):
     return Trajet(
         regexed_trajet[0], regexed_trajet[2], regexed_trajet[3], regexed_trajet[4]
     )

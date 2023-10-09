@@ -1,0 +1,452 @@
+
+04-07-2023 21:49:56
+13 minutes
+04-07-2023 22:03:04
+place
+directions_bike
+place
+Cégep Garneau
+Parc Lockwell
+Trip ID: 527309
+05-07-2023 21:15:51
+8 minutes
+05-07-2023 21:24:29
+place
+directions_bike
+place
+Parc Lockwell
+Saint-Germain / Boisseau
+Trip ID: 534134
+06-07-2023 09:08:46
+7 minutes
+06-07-2023 09:16:15
+place
+directions_bike
+place
+Église Saint-Sauveur
+Parc Lockwell
+Trip ID: 536087
+09-07-2023 20:14:27
+7 minutes
+09-07-2023 20:22:02
+place
+directions_bike
+place
+Parc Lockwell
+Parc John-Munn
+Trip ID: 560870
+09-07-2023 22:40:15
+4 minutes
+09-07-2023 22:44:35
+place
+directions_bike
+place
+Lavigueur / Sainte-Geneviève
+Parc Lockwell
+Trip ID: 561629
+13-07-2023 11:51:37
+1 minute
+13-07-2023 11:53:22
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Jean-Baptiste
+Trip ID: 580090
+15-07-2023 17:23:28
+6 minutes
+15-07-2023 17:30:04
+place
+directions_bike
+place
+Parc Lockwell
+Parc John-Munn
+Trip ID: 595909
+23-07-2023 20:02:54
+6 minutes
+23-07-2023 20:09:30
+place
+directions_bike
+place
+Parc Lockwell
+Parc John-Munn
+Trip ID: 638015
+25-07-2023 23:54:05
+3 minutes
+25-07-2023 23:57:43
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Sauveur
+Trip ID: 650235
+26-07-2023 09:00:43
+7 minutes
+26-07-2023 09:08:11
+place
+directions_bike
+place
+Église Saint-Sauveur
+Parc Lockwell
+Trip ID: 651144
+26-07-2023 13:30:21
+2 minutes
+26-07-2023 13:33:18
+place
+directions_bike
+place
+Parc Lockwell
+Fraser / Cartier
+Trip ID: 652278
+26-07-2023 13:49:12
+2 minutes
+26-07-2023 13:51:14
+place
+directions_bike
+place
+Fraser / Cartier
+Parc Lockwell
+Trip ID: 652362
+29-07-2023 19:59:41
+3 minutes
+29-07-2023 20:03:14
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Sauveur
+Trip ID: 669752
+30-07-2023 09:02:50
+9 minutes
+30-07-2023 09:12:44
+place
+directions_bike
+place
+Église Saint-Sauveur
+Parc Lockwell
+Trip ID: 671345
+31-07-2023 13:04:45
+2 minutes
+31-07-2023 13:07:20
+place
+directions_bike
+place
+Fraser / Cartier
+Parc Lockwell
+Trip ID: 676643
+31-07-2023 16:31:44
+8 minutes
+31-07-2023 16:40:12
+place
+directions_bike
+place
+Église Saint-Sauveur
+Parc Lockwell
+Trip ID: 677529
+31-07-2023 16:45:45
+4 minutes
+31-07-2023 16:50:11
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Sauveur
+Trip ID: 677641
+12-08-2023 12:21:23
+19 minutes
+12-08-2023 12:41:11
+place
+directions_bike
+place
+Parc Lockwell
+Domaine de Maizerets
+Trip ID: 729892
+12-08-2023 15:39:01
+8 minutes
+12-08-2023 15:47:52
+place
+directions_bike
+place
+Domaine de Maizerets
+Parc John-Munn
+Trip ID: 731004
+12-08-2023 16:23:59
+7 minutes
+12-08-2023 16:31:17
+place
+directions_bike
+place
+Place Jacques-Cartier
+Parc Lockwell
+Trip ID: 731295
+15-08-2023 20:39:21
+1 minute
+15-08-2023 20:40:58
+place
+directions_bike
+place
+Bourdon / 1ère Avenue
+Bourdon / 1ère Avenue
+Trip ID: 745474
+19-08-2023 11:53:44
+12 minutes
+19-08-2023 12:05:44
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Sauveur
+Trip ID: 761694
+19-08-2023 12:06:28
+16 minutes
+19-08-2023 12:22:36
+place
+directions_bike
+place
+Église Saint-Sauveur
+Gare du Palais
+Trip ID: 761722
+19-08-2023 14:49:00
+6 minutes
+19-08-2023 14:55:27
+place
+directions_bike
+place
+Bassin Louise
+Parc Saint-Matthew
+Trip ID: 762254
+19-08-2023 22:37:27
+2 minutes
+19-08-2023 22:40:14
+place
+directions_bike
+place
+Église Saint-Jean-Baptiste
+Parc Lockwell
+Trip ID: 763657
+24-08-2023 17:23:06
+4 minutes
+24-08-2023 17:27:58
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Sauveur
+Trip ID: 788464
+24-08-2023 23:34:36
+6 minutes
+24-08-2023 23:40:49
+place
+directions_bike
+place
+Signaï / Christophe-Colomb
+Parc Lockwell
+Trip ID: 790596
+25-08-2023 17:13:07
+4 minutes
+25-08-2023 17:17:28
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Sauveur
+Trip ID: 792608
+26-08-2023 09:15:30
+8 minutes
+26-08-2023 09:23:45
+place
+directions_bike
+place
+Église Saint-Sauveur
+Parc Lockwell
+Trip ID: 794040
+26-08-2023 16:44:16
+8 minutes
+26-08-2023 16:52:42
+place
+directions_bike
+place
+Parc Lockwell
+Bourdages / Monseigneur-Plessis
+Trip ID: 795392
+26-08-2023 16:53:18
+23 secondes
+26-08-2023 16:53:41
+place
+directions_bike
+place
+Bourdages / Monseigneur-Plessis
+Bourdages / Monseigneur-Plessis
+Trip ID: 795445
+26-08-2023 19:05:21
+6 minutes
+26-08-2023 19:11:50
+place
+directions_bike
+place
+Bourdages / Monseigneur-Plessis
+Église Saint-Sauveur
+Trip ID: 795943
+26-08-2023 22:40:34
+7 minutes
+26-08-2023 22:48:24
+place
+directions_bike
+place
+Signaï / Christophe-Colomb
+Parc Lockwell
+Trip ID: 796720
+27-08-2023 14:20:03
+2 minutes
+27-08-2023 14:22:03
+place
+directions_bike
+place
+Parc Lockwell
+Signaï / Christophe-Colomb
+Trip ID: 798908
+27-08-2023 17:59:30
+8 minutes
+27-08-2023 18:07:48
+place
+directions_bike
+place
+Église Saint-Sauveur
+Parc de l'Anse-à-Cartier
+Trip ID: 800383
+27-08-2023 20:27:21
+10 minutes
+27-08-2023 20:37:45
+place
+directions_bike
+place
+Parc John-Munn
+Parc Lockwell
+Trip ID: 800998
+03-09-2023 15:36:52
+17 minutes
+03-09-2023 15:54:36
+place
+directions_bike
+place
+De Prével / Quatre-Bourgeois
+Parc Lockwell
+Trip ID: 833357
+03-09-2023 19:45:00
+9 minutes
+03-09-2023 19:54:00
+place
+directions_bike
+place
+Parc Lockwell
+Parc John-Munn
+Trip ID: 834729
+04-09-2023 01:18:20
+7 minutes
+04-09-2023 01:26:14
+place
+directions_bike
+place
+Saint-Joseph / Saint-Anselme
+Parc Lockwell
+Trip ID: 835695
+29-09-2023 18:50:19
+20 minutes
+29-09-2023 19:11:10
+place
+directions_bike
+place
+Père-Marquette / Des Érables
+Église Saint-Sauveur
+Trip ID: 958556
+29-09-2023 19:11:53
+5 minutes
+29-09-2023 19:16:55
+place
+directions_bike
+place
+Église Saint-Sauveur
+Bourdages / Monseigneur-Plessis
+Trip ID: 958672
+29-09-2023 23:34:49
+12 minutes
+29-09-2023 23:47:36
+place
+directions_bike
+place
+Parc Victoria
+Parc Lockwell
+Trip ID: 959572
+30-09-2023 12:30:18
+7 minutes
+30-09-2023 12:37:52
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Sauveur
+Trip ID: 960958
+30-09-2023 15:27:58
+9 minutes
+30-09-2023 15:37:51
+place
+directions_bike
+place
+Église Saint-Sauveur
+Fraser / Cartier
+Trip ID: 961914
+01-10-2023 18:20:22
+12 minutes
+01-10-2023 18:32:23
+place
+directions_bike
+place
+Parc Lockwell
+ULaval - PEPS
+Trip ID: 967350
+01-10-2023 19:22:02
+13 minutes
+01-10-2023 19:35:21
+place
+directions_bike
+place
+ULaval - PEPS
+Père-Marquette / Des Érables
+Trip ID: 967560
+07-10-2023 09:43:49
+8 minutes
+07-10-2023 09:52:22
+place
+directions_bike
+place
+Église Saint-Sauveur
+Parc Lockwell
+Trip ID: 995008
+07-10-2023 14:53:04
+5 minutes
+07-10-2023 14:58:49
+place
+directions_bike
+place
+Parc Lockwell
+Église Saint-Sauveur
+Trip ID: 996023
+08-10-2023 20:08:37
+14 minutes
+08-10-2023 20:23:14
+place
+directions_bike
+place
+Parc Lockwell
+ULaval - PEPS
+Trip ID: 998987
+08-10-2023 21:51:31
+14 minutes
+08-10-2023 22:06:20
+place
+directions_bike
+place
+ULaval - PEPS
+Parc Lockwell
+Trip ID: 999184
+

@@ -12,7 +12,7 @@ funky_regex = (
 )
 
 
-def extract(data_file):
+def extract_from_file(data_file):
     with open(data_file, "r") as raw_trajets:
         text = raw_trajets.read()
         pattern = re.compile(funky_regex)
