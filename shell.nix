@@ -4,6 +4,7 @@ let
   pythonWithPkgs = pkgs.python311.withPackages (pythonPkgs: with pythonPkgs; [
     folium
     geojson
+    requests
 
     pytest
 ]);
