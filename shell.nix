@@ -5,16 +5,13 @@ let
     folium
     geojson
     requests
-
-    pytest
+    beautifulsoup4
 ]);
 in 
 
 pkgs.mkShell {
   buildInputs = [
-      # my python and packages
       pythonWithPkgs
-      
       pkgs.black
     ];
 
