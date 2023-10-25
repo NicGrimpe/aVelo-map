@@ -5,6 +5,7 @@ let
     folium
     geojson
     requests
+    click
     beautifulsoup4
 ]);
 in 
