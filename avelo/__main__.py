@@ -7,4 +7,4 @@ if __name__ == "__main__":
     for t in trajets:
         t.add_coordinates(avelo_stations.stations)
     print(f"Tu as fait {len(trajets)} trajets!")
-    map.generate_interractive(trajets)
+    map.generate_interractive_map(trajets)

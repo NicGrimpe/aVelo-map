@@ -2,7 +2,7 @@ import folium
 import json
 
 
-def generate_interractive(trajets):
+def generate_interractive_map(trajets):
     m = folium.Map(location=(46.81, -71.22), zoom_start=13)
     
     folium.GeoJson(
