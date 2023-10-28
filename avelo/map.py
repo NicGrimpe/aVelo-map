@@ -1,3 +1,4 @@
+import collections
 import folium
 import json
 
@@ -12,9 +13,12 @@ def generate_interractive_map(trajets):
     ).add_to(m)
     
     # Add trajets
-    for trajet in trajets:
-        line = [trajet.start_coordinates, trajet.end_coordinates]
-        folium.PolyLine(locations=line, weight=2, colors="#FF0000").add_to(m)
+    counter = collections.Counter((trajet.start_coordinates, trajet.end_coordinates) for trajet in trajets)
+    most_common_trip = counter.most_common(1)[0][1]
+    for trajet in counter:
+        line = [trajet[0], trajet[1]]
+        count = counter[trajet]
+        folium.PolyLine(locations=line, weight=((count * 7) / most_common_trip), tooltip=f"Trip made {count} times", colors="#FF0000").add_to(m)
 
     folium.LayerControl().add_to(m)
     

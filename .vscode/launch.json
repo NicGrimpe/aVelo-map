@@ -2,6 +2,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "cli",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/avelo-cli.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["generate-map"]
+        },
+        {
             "name": "Python: avelo_map",
             "type": "python",
             "request": "launch",
