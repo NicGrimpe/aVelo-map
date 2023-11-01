@@ -1,4 +1,4 @@
-# avelo-map
+# avelo-map :bike:
 
 ## To generate your map
 
@@ -19,4 +19,4 @@ python avelo-cli.py generate-map
 
 An `index.html` file containing a map similar to [mine](https://map.nicg.ca/) should be present in the directory where you called the script.
 
-Enjoy! :bike:
+Enjoy!
