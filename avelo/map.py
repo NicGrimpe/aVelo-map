@@ -1,7 +1,7 @@
 import collections
 import folium
 import json
-
+import os
 
 def generate_interractive_map(trajets):
     m = folium.Map(location=(46.81, -71.22), zoom_start=13)
@@ -22,4 +22,4 @@ def generate_interractive_map(trajets):
 
     folium.LayerControl().add_to(m)
     
-    m.save("output/index.html")
+    m.save("index.html")
